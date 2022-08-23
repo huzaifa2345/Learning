@@ -1,0 +1,5 @@
+class Add{
+static void m1(){
+System.out.println("It s Add Method");
+}
+}
