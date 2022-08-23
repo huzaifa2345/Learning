@@ -1,0 +1,15 @@
+//There are two types of data type.
+
+//1 .primitive data type
+//2.Non primitive data type
+class Name{
+public static void main(String args[]){
+/*int a=6,7;
+System.out.println("hello");
+System.out.println(a);*/
+int [] ia={4,5,6,};
+System.out.println(ia[0]);
+System.out.println(ia[1]);
+System.out.println(ia[2]);
+}
+}
