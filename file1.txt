@@ -1,0 +1,14 @@
+class Method{
+public static void main(String args[]){
+System.out.println("Welcome");
+h1();
+h2();
+
+}
+static void h1(){
+System.out.println("Java");
+}
+static void h2(){
+System.out.println("Welcome java");
+}
+}
